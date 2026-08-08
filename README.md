@@ -8,9 +8,7 @@
       <p><i>"I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."</i></p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <!-- 📌 ถ้ารูปอยู่ในโฟลเดอร์ Asset ให้ใช้ ./Asset/profile.png -->
-      <!-- 📌 หรือถ้าจะดึงจากรูปโปรไฟล์ GitHub โดยตรง ให้ใช้ https://github.com/kadorin19940-web.png -->
-      <img src="./Asset/profile.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #30363d; object-fit: cover;" alt="Pasin Amonprompukdee" />
+      <img src="./Asset/profile.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #30363d; object-fit: cover;" alt="Pasin Amonprompukdee" />
     </td>
   </tr>
 </table>
