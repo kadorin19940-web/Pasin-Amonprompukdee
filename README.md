@@ -8,22 +8,31 @@
 
 Successfully transitioned from an operational role to leading the company's internal digital transformation, managing end-to-end IT, data infrastructure, and software development as a solo engineer.
 
+## 💼 Work Experience
+
+### **AI-Driven Full-Stack Developer & Data Solution Engineer**
+**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 - Present*
+
+Successfully transitioned from an operational role to leading the company's internal digital transformation, managing end-to-end IT, data infrastructure, and software development as a solo engineer.
+
 **Key Responsibilities & Achievements:**
 
-* 🤖 **AI & Web Application Development**
-  * Architected and deployed multiple internal production-ready web applications via **GitHub and Vercel** to eliminate manual workloads.
-  * Formulated effective **Prompt Engineering** frameworks to leverage AI for rapid software development and zero-code production.
-  * Spearheaded the **Paperless Initiative** using **AppSheet** and custom web tools, significantly reducing physical paperwork and corporate operational costs.
+* 📊 **Data Analytics & Business Intelligence (BI)**
+  * Engineered and maintained secure cloud data pipelines connecting **BigQuery, PostgreSQL, MongoDB, and Supabase**.
+  * Executed monthly and yearly **Data Cleansing** to ensure absolute data integrity across all enterprise platforms.
+  * Designed and delivered interactive, high-impact **Executive Dashboards via Looker Studio** to support critical business decisions and board presentations.
+  * Controlled and governed all corporate data assets to generate real-time metrics and dynamic meeting materials for top-level executives.
 
-* 📊 **Data Analytics & Governance**
-  * Engineered and maintained secure cloud data pipelines using **BigQuery, PostgreSQL, MongoDB, and Supabase**.
-  * Executed comprehensive monthly and yearly **Data Cleansing** to ensure data integrity across all enterprise platforms.
-  * Designed and delivered interactive **Executive Dashboards** to support critical business decisions and board-level presentations.
+* 🤖 **AI & Software Development**
+  * Spearheaded the company's **Paperless Initiative** by developing internal mobile and web systems using **AppSheet** to eliminate manual workflows.
+  * Architected and deployed multiple custom production-ready web applications via **GitHub and Vercel** to cut down repetitive operations.
+  * Formulated effective **Prompt Engineering** frameworks to leverage advanced AI tools for rapid software production and zero-code delivery.
 
 * 🖥️ **IT Infrastructure & Technical Support**
   * Managed and troubleshot all corporate hardware devices, PCs, and peripheral equipment.
   * Configured essential drivers, operating networks, and specialized software installations (e.g., **Bluenote, Express**).
   * Evaluated and sourced high-efficiency IT hardware tailored to specific employee workflows.
+
 
 
 "I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."
@@ -32,10 +41,11 @@ Successfully transitioned from an operational role to leading the company's inte
 
 ## 🛠️ Tech Stack & Tools
 
-- **Frontend & Deployment:** Vercel, GitHub, AppSheet
+- **Frontend & Deployment:** Vercel, GitHub
+- **Low-Code / No-Code:** AppSheet
 - **Databases & Backend:** Supabase, PostgreSQL, BigQuery, MongoDB
+- **Data Analytics & BI:** Looker Studio, Data Cleansing, Executive Dashboard Design
 - **AI Automation:** Prompt Engineering, LLM Integration, Workflow Automation
-- **Data Analytics:** Data Cleansing, Executive Dashboard Design
 
 ---
 
@@ -56,3 +66,5 @@ Successfully transitioned from an operational role to leading the company's inte
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://vercel.app[ใส่usernameของคุณ]&show_icons=true&theme=radical)
+
+"ผมเริ่มงานที่นี่ในฐานะผู้ดูแลระบบคลังสินค้าออนไลน์ แต่พอเห็นปัญหาความซ้ำซ้อนของงานและเอกสารจำนวนมาก ผมเลยลุกขึ้นมาใช้สกิลสาย Code และพลังของ AI สร้างระบบขึ้นมาช่วยบริษัท เปลี่ยนระบบหลังบ้านเป็น Supabase/BigQuery พัฒนาแอปผ่าน Vercel และทำแดชบอร์ดให้ผู้บริหาร จนสุดท้ายบริษัทไว้วางใจให้ผมดูแลระบบไอทีและเดต้าทั้งหมดขององค์กรแต่เพียงผู้เดียว"
