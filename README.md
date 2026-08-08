@@ -8,8 +8,8 @@
       <p><i>"I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."</i></p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./Asset/profile.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #30363d; object-fit: cover; object-position: center;" alt="Pasin Amonprompukdee" />
-    </td>
+  <img src="./Asset/profile.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #30363d;" alt="Pasin Amonprompukdee" />
+</td>
   </tr>
 </table>
 
