@@ -4,7 +4,7 @@
 ## 💼 Work Experience
 
 ### **AI-Driven Full-Stack Developer & Data Solution Engineer**
-**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 - Present*
+**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 ---> Present*
 
 Successfully transitioned from an operational role to leading the company's internal digital transformation, managing end-to-end IT, data infrastructure, and software development as a solo engineer.
 
