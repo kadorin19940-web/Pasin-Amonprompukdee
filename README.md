@@ -1,7 +1,5 @@
 # Hi there, I'm Pasin Amonprompukdee 👋
-Nickname: Aum          Age:27
-
-
+**Nickname:** Aum | **Age:** 27  
 ### AI-Driven Full-Stack Developer & Data Solution Engineer
 
 > "I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."
@@ -20,7 +18,7 @@ Successfully transitioned from an operational role to leading the company's inte
 * 📊 **Data Analytics & Business Intelligence (BI)**
   * Engineered and maintained secure cloud data pipelines connecting **BigQuery, PostgreSQL, MongoDB, and Supabase**.
   * Executed monthly and yearly **Data Cleansing** to ensure absolute data integrity across all enterprise platforms.
-  * Designed and delivered interactive, high-impact **Executive Dashboards via Looker Studio** or **Web App** to support critical business decisions and board presentations.
+  * Designed and delivered interactive, high-impact **Executive Dashboards via Looker Studio or Custom Web Apps** to support critical business decisions and board presentations.
   * Controlled and governed all corporate data assets to generate real-time metrics and dynamic meeting materials for top-level executives.
 
 * 🤖 **AI & Software Development**
@@ -37,9 +35,9 @@ Successfully transitioned from an operational role to leading the company's inte
 
 ## 🛠️ Tech Stack & Tools
 
-- **Frontend & Deployment:** Vercel, GitHub
-- **Low-Code / No-Code:** AppSheet , Other...
-- **Databases & Backend:** Supabase, PostgreSQL, BigQuery, MongoDB
+- **Frontend & Deployment:** Next.js 14, React 18/19, Vite, Tailwind CSS, Vercel, GitHub
+- **Low-Code / No-Code:** AppSheet, Google Apps Script (GAS)
+- **Databases & Backend:** Supabase, PostgreSQL, BigQuery, MongoDB, NextAuth.js
 - **Data Analytics & BI:** Looker Studio, Data Cleansing, Executive Dashboard Design
 - **AI Automation:** Prompt Engineering, LLM Integration, Workflow Automation
 
@@ -53,25 +51,31 @@ Successfully transitioned from an operational role to leading the company's inte
 - **Impact:** Consolidated multi-channel sales and operational data into real-time dynamic dashboards, saving 80% of preparation time for board meetings.
 - **Live Demo:** [Live Application](https://your-dashboard-demo.vercel.app)
 
-### 2. GoCost — Enterprise Expense & Budget Control
+### 2. Make a Deal — Premium SaaS & E-Commerce Portal
+- **Description:** Built a high-performance SaaS e-commerce web portal for software licensing, featuring NextAuth.js authentication, PromptPay QR code checkout with automated slip verification, and zero-trust Edge Middleware protection.
+- **Tech Stack:** Next.js 14 (App Router), TypeScript, NextAuth.js, Tailwind CSS, Google Apps Script (GAS)
+- **Impact:** Created a seamless digital storefront with zero server-side cold start database overhead, automated software key distribution, and instant CMS customization.
+- **Live Demo:** [Live Application](https://your-makeadeal-demo.vercel.app)
+
+### 3. GoCost — Enterprise Expense & Budget Control
 - **Description:** Architected an internal budget control and expense logging system featuring Role-Based Access Control (RBAC), audit logging, approval workflows, and P&L account mapping.
 - **Tech Stack:** React, Supabase, PostgreSQL, Tailwind CSS v4
 - **Impact:** Streamlined corporate spending management, prevented budget overruns via annual budget caps, and ensured 100% data auditability.
 - **Live Demo:** [Live Demo](https://your-gocost-demo.vercel.app)
 
-### 3. GoStock+ — Smart Inventory & Stock Control
+### 4. GoStock+ — Smart Inventory & Stock Control
 - **Description:** Developed a premium inventory management web application supporting template-based audits, real-time variance analysis (stock discrepancies), and slow-moving inventory tracking.
 - **Tech Stack:** React 18, Zustand, Supabase, SheetJS
 - **Impact:** Transformed manual warehouse counting into a digital process, reducing stock auditing time and enabling instant Excel/PDF export capabilities.
 - **Live Demo:** [Live Demo](https://your-gostock-demo.vercel.app)
 
-### 4. Plan Trip — Field Sales & PC Route Orchestration
+### 5. Plan Trip — Field Sales & PC Route Orchestration
 - **Description:** Created a field sales management and route planning platform with calendar scheduling, GPS check-ins, OSRM driving distance calculations, and automated photo uploads.
 - **Tech Stack:** React, Vercel Serverless, Google Drive API, OSRM Routing
 - **Impact:** Optimized field sales routes, automated trip approval processes, and cut down manual reporting time for field personnel.
 - **Live Demo:** [Live Demo](https://your-plantrip-demo.vercel.app)
 
-### 5. GoScore — Real-time Competition Scoring System
+### 6. GoScore — Real-time Competition Scoring System
 - **Description:** Built a real-time competition registration and evaluation system featuring a touch-friendly scoring interface for judges and live aggregated scoreboard calculations.
 - **Tech Stack:** Google Apps Script (GAS), Google Sheets API, HTML5, CSS3
 - **Impact:** Replaced paper scoring cards completely, delivering real-time pivot table analysis and zero-delay winner calculations during live events.
@@ -85,6 +89,8 @@ Successfully transitioned from an operational role to leading the company's inte
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadorin19940-web&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pasin's GitHub Stats" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kadorin19940-web&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadorin19940-web&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
@@ -106,28 +112,44 @@ Successfully transitioned from an operational role to leading the company's inte
 </p>
 
 <table border="0" width="100%">
-  <!-- 📌 PROJECT 1: Executive Dashboard (FLAGSHIP - Full Width) -->
+  <!-- 📌 ROW 1: Executive Dashboard (Left) & Make a Deal (Right) -->
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-dashboard-demo.vercel.app" target="_blank">
         <!-- 📸 ภาพที่ 1: ./assets/showcase-01-dashboard.png -->
         <img src="./assets/showcase-01-dashboard.png" width="100%" alt="Executive Dashboard" style="border-radius: 8px; border: 1px solid #30363d;" />
       </a>
       <br/><br/>
-      <h3>📊 PHANVADEE Executive BI & Analytics Platform</h3>
-      <p><b>ระบบรายงานผลงานผู้บริหารและท่อลำเลียงข้อมูลระดับองค์กร (BigQuery Integration)</b></p>
-      <p>วิเคราะห์ข้อมูลธุรกรรมรายวัน ยอดขายสะสม ยอดขายเจาะจงรายร้านค้า (Independent Store Report) พร้อมระบบ Interactive Pivot Table เลือกช่วงเดือนสะสม และแสดงสถานะการเติบโต (MoM/YoY Badges)</p>
+      <h3>📊 PHANVADEE Executive BI Platform</h3>
+      <p><b>ระบบรายงานผลงานผู้บริหารและท่อลำเลียงข้อมูลระดับองค์กร</b></p>
+      <p>วิเคราะห์ข้อมูลธุรกรรมรายวัน ยอดขายสะสม ยอดขายเจาะจงรายร้านค้า (Independent Store Report) พร้อมระบบ Interactive Pivot Table เลือกช่วงเดือนสะสม</p>
       <p>
         <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       </p>
       <p>
-        <a href="https://your-dashboard-demo.vercel.app">🔗 Live Application</a> • 
-        <code>Private Repository (Protected IP)</code>
+        <a href="https://your-dashboard-demo.vercel.app">🔗 Live Application</a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <a href="https://your-makeadeal-demo.vercel.app" target="_blank">
+        <!-- 📸 ภาพที่ 6: ./assets/showcase-06-makeadeal.png -->
+        <img src="./assets/showcase-06-makeadeal.png" width="100%" alt="Make a Deal Portal" style="border-radius: 8px; border: 1px solid #30363d;" />
+      </a>
+      <br/><br/>
+      <h3>🛍️ Make a Deal — Premium SaaS Portal</h3>
+      <p><b>ระบบเว็บพอร์ทัลร้านค้าออนไลน์ขายซอฟต์แวร์และระบบ POS หน้าร้าน</b></p>
+      <p>ระบบชำระเงิน PromptPay QR สแกนตรวจเช็คสลับสลิปอัตโนมัติ, Edge Middleware ป้องกันสิทธิ์แบบ Zero-Trust และระบบ CMS ปรับแต่งหน้าเว็บสด</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GAS_Backend-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://your-makeadeal-demo.vercel.app">🔗 Live Demo</a>
       </p>
     </td>
   </tr>
@@ -148,7 +170,6 @@ Successfully transitioned from an operational role to leading the company's inte
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
       <p>
         <a href="https://your-gocost-demo.vercel.app">🔗 Live Demo</a>
@@ -168,7 +189,6 @@ Successfully transitioned from an operational role to leading the company's inte
         <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SheetJS-217346?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
       <p>
         <a href="https://your-gostock-demo.vercel.app">🔗 Live Demo</a>
@@ -185,14 +205,13 @@ Successfully transitioned from an operational role to leading the company's inte
         <img src="./assets/showcase-04-plantrip.png" width="100%" alt="Plan Trip App" style="border-radius: 8px; border: 1px solid #30363d;" />
       </a>
       <br/><br/>
-      <h3>🗺️ Plan Trip — Field Sales & PC Route Orchestration</h3>
+      <h3>🗺️ Plan Trip — Field Sales & Route Orchestration</h3>
       <p><b>ระบบวางแผนทริปและติดตามการปฏิบัติงานหน้าร้าน</b></p>
       <p>ปฏิทินจัดตารางงานเซลล์/PC, เช็คอินระบุพิกัดพร้อมคำนวณระยะทางขับรถผ่าน OSRM, ระบบส่งอนุมัติทริป และอัปโหลดภาพถ่ายหน้าร้านขึ้น Google Drive API</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Vercel_Serverless-000000?style=flat-square&logo=vercel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OSRM_Routing-000000?style=flat-square&logo=openstreetmap&logoColor=white"/>
       </p>
       <p>
         <a href="https://your-plantrip-demo.vercel.app">🔗 Live Demo</a>
