@@ -1,7 +1,32 @@
 # Hi there, I'm [Pasin-Amonprompukdee] 👋
 ### AI-Driven Full-Stack Developer & Data Solution Engineer
 
-I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration.
+## 💼 Work Experience
+
+### **AI-Driven Full-Stack Developer & Data Solution Engineer**
+**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 - Present*
+
+Successfully transitioned from an operational role to leading the company's internal digital transformation, managing end-to-end IT, data infrastructure, and software development as a solo engineer.
+
+**Key Responsibilities & Achievements:**
+
+* 🤖 **AI & Web Application Development**
+  * Architected and deployed multiple internal production-ready web applications via **GitHub and Vercel** to eliminate manual workloads.
+  * Formulated effective **Prompt Engineering** frameworks to leverage AI for rapid software development and zero-code production.
+  * Spearheaded the **Paperless Initiative** using **AppSheet** and custom web tools, significantly reducing physical paperwork and corporate operational costs.
+
+* 📊 **Data Analytics & Governance**
+  * Engineered and maintained secure cloud data pipelines using **BigQuery, PostgreSQL, MongoDB, and Supabase**.
+  * Executed comprehensive monthly and yearly **Data Cleansing** to ensure data integrity across all enterprise platforms.
+  * Designed and delivered interactive **Executive Dashboards** to support critical business decisions and board-level presentations.
+
+* 🖥️ **IT Infrastructure & Technical Support**
+  * Managed and troubleshot all corporate hardware devices, PCs, and peripheral equipment.
+  * Configured essential drivers, operating networks, and specialized software installations (e.g., **Bluenote, Express**).
+  * Evaluated and sourced high-efficiency IT hardware tailored to specific employee workflows.
+
+
+"I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."
 
 ---
 
