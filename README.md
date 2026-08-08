@@ -1,8 +1,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=PASIN%20AMONPROMPUKDEE&fontSize=38&fontColor=E6F1FF&fontAlignY=38&desc=AI-Driven%20Full-Stack%20Developer%20%26%20Data%20Solution%20Engineer&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" width="100%"/>
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=PASIN%20AMONPROMPUKDEE&fontSize=38&fontColor=E6F1FF&fontAlignY=38&desc=AI-Driven%20Full-Stack%20Developer%20and%20Data%20Solution%20Engineer&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" width="100%"/>
 
 <table border="0" width="100%">
   <tr>
