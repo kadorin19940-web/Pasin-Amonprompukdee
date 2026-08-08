@@ -1,7 +1,6 @@
 # Hi there, I'm Pasin Amonprompukdee 👋
 Nickname: Aum          Age:27
 
----
 
 ### AI-Driven Full-Stack Developer & Data Solution Engineer
 
