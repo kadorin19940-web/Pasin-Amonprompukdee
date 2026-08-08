@@ -38,7 +38,7 @@ Successfully transitioned from an operational role to leading the company's inte
 ## 🛠️ Tech Stack & Tools
 
 - **Frontend & Deployment:** Vercel, GitHub
-- **Low-Code / No-Code:** AppSheet
+- **Low-Code / No-Code:** AppSheet , Other...
 - **Databases & Backend:** Supabase, PostgreSQL, BigQuery, MongoDB
 - **Data Analytics & BI:** Looker Studio, Data Cleansing, Executive Dashboard Design
 - **AI Automation:** Prompt Engineering, LLM Integration, Workflow Automation
