@@ -65,6 +65,10 @@ Successfully transitioned from an operational role to leading the company's inte
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://vercel.app[ใส่usernameของคุณ]&show_icons=true&theme=radical)
+
+![Your GitHub Stats](https://vercel.app)
+
+![Most Used Languages](https://vercel.app)
+
 
 "ผมเริ่มงานที่นี่ในฐานะผู้ดูแลระบบคลังสินค้าออนไลน์ แต่พอเห็นปัญหาความซ้ำซ้อนของงานและเอกสารจำนวนมาก ผมเลยลุกขึ้นมาใช้สกิลสาย Code และพลังของ AI สร้างระบบขึ้นมาช่วยบริษัท เปลี่ยนระบบหลังบ้านเป็น Supabase/BigQuery พัฒนาแอปผ่าน Vercel และทำแดชบอร์ดให้ผู้บริหาร จนสุดท้ายบริษัทไว้วางใจให้ผมดูแลระบบไอทีและเดต้าทั้งหมดขององค์กรแต่เพียงผู้เดียว"
