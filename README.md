@@ -47,16 +47,35 @@ Successfully transitioned from an operational role to leading the company's inte
 
 ## 🚀 Featured Projects
 
-### 1. Executive Data Analytics Platform
-- **Description:** Developed an end-to-end data pipeline to cleanse, aggregate, and visualize monthly/yearly corporate data for executive decision-making.
-- **Tech Stack:** BigQuery, PostgreSQL, Executive Dashboards
-- **Impact:** Consolidated data from multiple platforms, saving 80% of preparation time for board meetings.
+### 1. PHANVADEE Executive BI & Analytics Platform
+- **Description:** Engineered an end-to-end data pipeline to cleanse, aggregate, and visualize monthly/yearly corporate data with independent store reporting and interactive pivot analysis.
+- **Tech Stack:** React 19, BigQuery, Looker Studio, Tailwind CSS, Vite
+- **Impact:** Consolidated multi-channel sales and operational data into real-time dynamic dashboards, saving 80% of preparation time for board meetings.
+- **Live Demo:** [Live Application](https://your-dashboard-demo.vercel.app)
 
-### 2. [ชื่อ Web App 1 ของคุณ]
-- **Description:** Designed and deployed a custom web application to automate manual business processes and achieve a paperless workplace.
-- **Tech Stack:** GitHub, Vercel, Supabase
-- **Impact:** Eliminated repetitive workloads and successfully transitioned the department to 100% paperless operations.
-- **Live Demo:** [ใส่ลิงก์แอปที่รันบน Vercel]
+### 2. GoCost — Enterprise Expense & Budget Control
+- **Description:** Architected an internal budget control and expense logging system featuring Role-Based Access Control (RBAC), audit logging, approval workflows, and P&L account mapping.
+- **Tech Stack:** React, Supabase, PostgreSQL, Tailwind CSS v4
+- **Impact:** Streamlined corporate spending management, prevented budget overruns via annual budget caps, and ensured 100% data auditability.
+- **Live Demo:** [Live Demo](https://your-gocost-demo.vercel.app)
+
+### 3. GoStock+ — Smart Inventory & Stock Control
+- **Description:** Developed a premium inventory management web application supporting template-based audits, real-time variance analysis (stock discrepancies), and slow-moving inventory tracking.
+- **Tech Stack:** React 18, Zustand, Supabase, SheetJS
+- **Impact:** Transformed manual warehouse counting into a digital process, reducing stock auditing time and enabling instant Excel/PDF export capabilities.
+- **Live Demo:** [Live Demo](https://your-gostock-demo.vercel.app)
+
+### 4. Plan Trip — Field Sales & PC Route Orchestration
+- **Description:** Created a field sales management and route planning platform with calendar scheduling, GPS check-ins, OSRM driving distance calculations, and automated photo uploads.
+- **Tech Stack:** React, Vercel Serverless, Google Drive API, OSRM Routing
+- **Impact:** Optimized field sales routes, automated trip approval processes, and cut down manual reporting time for field personnel.
+- **Live Demo:** [Live Demo](https://your-plantrip-demo.vercel.app)
+
+### 5. GoScore — Real-time Competition Scoring System
+- **Description:** Built a real-time competition registration and evaluation system featuring a touch-friendly scoring interface for judges and live aggregated scoreboard calculations.
+- **Tech Stack:** Google Apps Script (GAS), Google Sheets API, HTML5, CSS3
+- **Impact:** Replaced paper scoring cards completely, delivering real-time pivot table analysis and zero-delay winner calculations during live events.
+- **Live Demo:** [View Architecture](https://your-goscore-demo.com)
 
 ---
 
