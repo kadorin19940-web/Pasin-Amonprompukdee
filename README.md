@@ -66,9 +66,10 @@ Successfully transitioned from an operational role to leading the company's inte
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://vercel.app)
-
-![Most Used Languages](https://vercel.app)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadorin19940-web&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pasin's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadorin19940-web&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
+</div>
 
 
 "ผมเริ่มงานที่นี่ในฐานะผู้ดูแลระบบคลังสินค้าออนไลน์ แต่พอเห็นปัญหาความซ้ำซ้อนของงานและเอกสารจำนวนมาก ผมเลยลุกขึ้นมาใช้สกิลสาย Code และพลังของ AI สร้างระบบขึ้นมาช่วยบริษัท เปลี่ยนระบบหลังบ้านเป็น Supabase/BigQuery พัฒนาแอปผ่าน Vercel และทำแดชบอร์ดให้ผู้บริหาร จนสุดท้ายบริษัทไว้วางใจให้ผมดูแลระบบไอทีและเดต้าทั้งหมดขององค์กรแต่เพียงผู้เดียว"
