@@ -126,8 +126,7 @@ Successfully transitioned from an operational role to leading the company's inte
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-dashboard-demo.vercel.app" target="_blank">
-        <!-- 📸 ภาพที่ 1: ./Asset/showcase-01-dashboard.png -->
-        <img src="./Asset/showcase-01-dashboard.png" width="100%" alt="Executive Dashboard" style="border-radius: 8px; border: 1px solid #30363d;" />
+        <img src="./Asset/showcase-01-dashboard.png" width="100%" alt="Executive Dashboard" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" />
       </a>
       <br/><br/>
       <h3>📊 PHANVADEE Executive BI Platform</h3>
@@ -145,8 +144,7 @@ Successfully transitioned from an operational role to leading the company's inte
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-makeadeal-demo.vercel.app" target="_blank">
-        <!-- 📸 ภาพที่ 6: ./Asset/showcase-06-makeadeal.png -->
-        <img src="./Asset/showcase-06-makeadeal.png" width="100%" alt="Make a Deal Portal" style="border-radius: 8px; border: 1px solid #30363d;" />
+        <img src="./Asset/showcase-06-makeadeal.png" width="100%" alt="Make a Deal Portal" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" />
       </a>
       <br/><br/>
       <h3>🛍️ Make a Deal — Premium SaaS Portal</h3>
@@ -168,8 +166,7 @@ Successfully transitioned from an operational role to leading the company's inte
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-gocost-demo.vercel.app" target="_blank">
-        <!-- 📸 ภาพที่ 2: ./Asset/showcase-02-gocost.png -->
-        <img src="./Asset/showcase-02-gocost.png" width="100%" alt="GoCost App" style="border-radius: 8px; border: 1px solid #30363d;" />
+        <img src="./Asset/showcase-02-gocost.png" width="100%" alt="GoCost App" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" />
       </a>
       <br/><br/>
       <h3>💸 GoCost — Enterprise Expense & Budget Control</h3>
@@ -187,8 +184,7 @@ Successfully transitioned from an operational role to leading the company's inte
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-gostock-demo.vercel.app" target="_blank">
-        <!-- 📸 ภาพที่ 3: ./Asset/showcase-03-gostock.png -->
-        <img src="./Asset/showcase-03-gostock.png" width="100%" alt="GoStock+ App" style="border-radius: 8px; border: 1px solid #30363d;" />
+        <img src="./Asset/showcase-03-gostock.png" width="100%" alt="GoStock+ App" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" />
       </a>
       <br/><br/>
       <h3>📦 GoStock+ — Smart Inventory & Stock Control</h3>
@@ -210,8 +206,7 @@ Successfully transitioned from an operational role to leading the company's inte
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-plantrip-demo.vercel.app" target="_blank">
-        <!-- 📸 ภาพที่ 4: ./Asset/showcase-04-plantrip.png -->
-        <img src="./Asset/showcase-04-plantrip.png" width="100%" alt="Plan Trip App" style="border-radius: 8px; border: 1px solid #30363d;" />
+        <img src="./Asset/showcase-04-plantrip.png" width="100%" alt="Plan Trip App" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" />
       </a>
       <br/><br/>
       <h3>🗺️ Plan Trip — Field Sales & Route Orchestration</h3>
@@ -229,8 +224,7 @@ Successfully transitioned from an operational role to leading the company's inte
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://your-goscore-demo.com" target="_blank">
-        <!-- 📸 ภาพที่ 5: ./Asset/showcase-05-goscore.png -->
-        <img src="./Asset/showcase-05-goscore.png" width="100%" alt="GoScore System" style="border-radius: 8px; border: 1px solid #30363d;" />
+        <img src="./Asset/showcase-05-goscore.png" width="100%" alt="GoScore System" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" />
       </a>
       <br/><br/>
       <h3>🏆 GoScore — Real-time Competition Scoring System</h3>
