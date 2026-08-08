@@ -65,16 +65,17 @@ Successfully transitioned from an operational role to leading the company's inte
 ---
 
 ## 📈 GitHub Stats
+SCROE
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadorin19940-web&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pasin's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kadorin19940-web&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadorin19940-web&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadorin19940-web&theme=zenburn" alt="Profile Details" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadorin19940-web&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pasin's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kadorin19940-web&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
-</div>
 
 ---
 
