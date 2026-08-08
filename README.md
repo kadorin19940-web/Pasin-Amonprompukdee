@@ -80,3 +80,53 @@ SCROE
 ---
 
 "ผมเริ่มงานที่นี่ในฐานะผู้ดูแลระบบคลังสินค้าออนไลน์ แต่พอเห็นปัญหาความซ้ำซ้อนของงานและเอกสารจำนวนมาก ผมเลยลุกขึ้นมาใช้สกิลสาย Code และพลังของ AI สร้างระบบขึ้นมาช่วยบริษัท เปลี่ยนระบบหลังบ้านเป็น Supabase/BigQuery/LookerStudio พัฒนาแอปผ่าน Vercel และทำแดชบอร์ดให้ผู้บริหาร จนสุดท้ายบริษัทไว้วางใจให้ผมดูแลระบบไอทีและเดต้าทั้งหมดขององค์กรแต่เพียงผู้เดียว"
+
+
+ผลงานทั้งหมด
+<!-- 🎨 Project Canvas Showcase -->
+<h2 align="center">🖼️ Project Showcase Canvas</h2>
+<p align="center">รวมผลงานการพัฒนาแอปพลิเคชันและระบบข้อมูล</p>
+
+<table border="0" width="100%">
+  <!-- ROW 1: Project 1 & 2 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://YOUR-DEMO-LINK-1.com" target="_blank">
+        <!-- 📌 ใส่ Path หรือ Link รูปที่แนบใน GitHub ที่นี่ -->
+        <img src="./assets/project1-mockup.png" width="100%" alt="Salon POS System" style="border-radius: 8px;" />
+      </a>
+      <br />
+      <h3>📱 Salon POS Management System</h3>
+      <p>ระบบจัดการร้านซาลอน ออฟไลน์ POS พร้อมระบบรายงานผล</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Tailwind CSS</code> <code>AppSheet</code></p>
+      <a href="https://YOUR-DEMO-LINK-1.com">🔗 Live Demo</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://YOUR-DEMO-LINK-2.com" target="_blank">
+        <!-- 📌 ใส่ Path หรือ Link รูปที่แนบใน GitHub ที่นี่ -->
+        <img src="./assets/project2-mockup.png" width="100%" alt="Data Dashboard" style="border-radius: 8px;" />
+      </a>
+      <br />
+      <h3>📊 Data Solution & Analytics</h3>
+      <p>ระบบ Pipeline เชื่อมโยงข้อมูลและ Dashboard สรุปผล</p>
+      <p><b>Tech Stack:</b> <code>Next.js</code> <code>BigQuery</code> <code>Looker Studio</code></p>
+      <a href="https://YOUR-DEMO-LINK-2.com">🔗 Live Demo</a>
+    </td>
+  </tr>
+
+  <!-- ROW 2: Project 3 (Full Width Banner) -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <a href="https://YOUR-DEMO-LINK-3.com" target="_blank">
+        <!-- 📌 ใส่ Path หรือ Link รูปที่แนบใน GitHub ที่นี่ -->
+        <img src="./assets/project3-banner.png" width="100%" alt="Fullstack Web App" style="border-radius: 8px;" />
+      </a>
+      <br />
+      <h3>🚀 AI-Driven Full-Stack Web Application</h3>
+      <p>ระบบเว็บแอปพลิเคชันเชื่อมต่อชีตการทำงานและประมวลผลผ่าน AI Automations</p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Supabase</code> <code>Google Apps Script</code> <code>n8n</code></p>
+      <a href="https://YOUR-DEMO-LINK-3.com">🔗 View Architecture & Docs</a>
+    </td>
+  </tr>
+</table>
