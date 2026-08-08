@@ -1,17 +1,14 @@
-# Hi there, I'm [Pasin-Amonprompukdee] 👋
+# Hi there, I'm Pasin Amonprompukdee 👋
 ### AI-Driven Full-Stack Developer & Data Solution Engineer
 
-## 💼 Work Experience
+> "I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."
 
-### **AI-Driven Full-Stack Developer & Data Solution Engineer**
-**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 ---> Present*
-
-Successfully transitioned from an operational role to leading the company's internal digital transformation, managing end-to-end IT, data infrastructure, and software development as a solo engineer.
+---
 
 ## 💼 Work Experience
 
 ### **AI-Driven Full-Stack Developer & Data Solution Engineer**
-**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 - Present*
+**PHANVADEE CO.,LTD. (บริษัท พันธ์วาดี จำกัด)** | *Jul 2024 – Present*
 
 Successfully transitioned from an operational role to leading the company's internal digital transformation, managing end-to-end IT, data infrastructure, and software development as a solo engineer.
 
@@ -33,10 +30,6 @@ Successfully transitioned from an operational role to leading the company's inte
   * Configured essential drivers, operating networks, and specialized software installations (e.g., **Bluenote, Express**).
   * Evaluated and sourced high-efficiency IT hardware tailored to specific employee workflows.
 
-
-
-"I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -49,84 +42,90 @@ Successfully transitioned from an operational role to leading the company's inte
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Executive Data Analytics Platform
-- **Description:** Developed an end-to-end data pipeline to cleanse, aggregate, and visualize monthly/yearly corporate data for executive decision-making.
-- **Tech Stack:** BigQuery, PostgreSQL, Executive Dashboards
-- **Impact:** Consolidated data from multiple platforms, saving 80% of preparation time for board meetings.
-
-### 2. [ชื่อ Web App 1 ของคุณ]
-- **Description:** Designed and deployed a custom web application to automate manual business processes and achieve a paperless workplace.
-- **Tech Stack:** GitHub, Vercel, Supabase
-- **Impact:** Eliminated repetitive workloads and successfully transitioned the department to 100% paperless operations.
-- **Live Demo:** [ใส่ลิงก์แอปที่รันบน Vercel]
-
----
-
 ## 📈 GitHub Stats
-SCROE
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadorin19940-web&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pasin's GitHub Stats" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kadorin19940-web&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadorin19940-web&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadorin19940-web&theme=zenburn" alt="Profile Details" height="165" />
 </div>
 
+---
+
+## 💭 Career Journey & Background
+
+> *"ผมเริ่มงานที่นี่ในฐานะผู้ดูแลระบบคลังสินค้าออนไลน์ แต่เมื่อมองเห็นปัญหาความซ้ำซ้อนของงานและเอกสารจำนวนมาก ผมจึงลุกขึ้นมานำทักษะด้าน Software Development และพลังของ AI Automation มาสร้างระบบเพื่อยกระดับองค์กร เปลี่ยนระบบหลังบ้านสู่ Supabase, BigQuery และ Looker Studio พร้อมทั้งพัฒนาเว็บแอปพลิเคชันเพื่อตอบโจทย์กระบวนการทำงานจริง จนได้รับความไว้วางใจให้ดูแลระบบไอทีและข้อมูลทั้งหมดของบริษัทอย่างเต็มตัว"*
 
 ---
 
-"ผมเริ่มงานที่นี่ในฐานะผู้ดูแลระบบคลังสินค้าออนไลน์ แต่พอเห็นปัญหาความซ้ำซ้อนของงานและเอกสารจำนวนมาก ผมเลยลุกขึ้นมาใช้สกิลสาย Code และพลังของ AI สร้างระบบขึ้นมาช่วยบริษัท เปลี่ยนระบบหลังบ้านเป็น Supabase/BigQuery/LookerStudio พัฒนาแอปผ่าน Vercel และทำแดชบอร์ดให้ผู้บริหาร จนสุดท้ายบริษัทไว้วางใจให้ผมดูแลระบบไอทีและเดต้าทั้งหมดขององค์กรแต่เพียงผู้เดียว"
+## 🚀 Featured System Architecture & UI Showcase
 
-
-ผลงานทั้งหมด
-<!-- 🎨 Project Canvas Showcase -->
-<h2 align="center">🖼️ Project Showcase Canvas</h2>
-<p align="center">รวมผลงานการพัฒนาแอปพลิเคชันและระบบข้อมูล</p>
+<p align="center">
+  <b>Architectural Diagrams & UI Skeleton Wireframes for Internal Production Systems</b>
+</p>
 
 <table border="0" width="100%">
-  <!-- ROW 1: Project 1 & 2 -->
+  <!-- ROW 1: Executive Analytics Platform & Paperless Web App -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://YOUR-DEMO-LINK-1.com" target="_blank">
-        <!-- 📌 ใส่ Path หรือ Link รูปที่แนบใน GitHub ที่นี่ -->
-        <img src="./assets/project1-mockup.png" width="100%" alt="Salon POS System" style="border-radius: 8px;" />
+      <br/>
+      <a href="./assets/executive-dashboard-architecture.png" target="_blank">
+        <img src="./assets/executive-dashboard-architecture.png" width="100%" alt="Executive Data Pipeline Architecture" style="border-radius: 8px; border: 1px solid #30363d;" />
       </a>
-      <br />
-      <h3>📱 Salon POS Management System</h3>
-      <p>ระบบจัดการร้านซาลอน ออฟไลน์ POS พร้อมระบบรายงานผล</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Tailwind CSS</code> <code>AppSheet</code></p>
-      <a href="https://YOUR-DEMO-LINK-1.com">🔗 Live Demo</a>
+      <br/><br/>
+      <h3>📊 Executive Analytics & BI Pipeline</h3>
+      <p>End-to-End Data Pipeline Connecting Legacy/Cloud Databases to BigQuery & Executive Dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <p><b>Impact:</b> Automated data consolidation, saving 80% of preparation time for board meetings.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://YOUR-DEMO-LINK-2.com" target="_blank">
-        <!-- 📌 ใส่ Path หรือ Link รูปที่แนบใน GitHub ที่นี่ -->
-        <img src="./assets/project2-mockup.png" width="100%" alt="Data Dashboard" style="border-radius: 8px;" />
+      <br/>
+      <a href="./assets/paperless-app-mockup.png" target="_blank">
+        <img src="./assets/paperless-app-mockup.png" width="100%" alt="Paperless Operations Web App Mockup" style="border-radius: 8px; border: 1px solid #30363d;" />
       </a>
-      <br />
-      <h3>📊 Data Solution & Analytics</h3>
-      <p>ระบบ Pipeline เชื่อมโยงข้อมูลและ Dashboard สรุปผล</p>
-      <p><b>Tech Stack:</b> <code>Next.js</code> <code>BigQuery</code> <code>Looker Studio</code></p>
-      <a href="https://YOUR-DEMO-LINK-2.com">🔗 Live Demo</a>
+      <br/><br/>
+      <h3>⚡ Enterprise Paperless Web Application</h3>
+      <p>Production Web Application for Operations & Internal Workflows Modernization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </p>
+      <p><b>Impact:</b> Transitioned internal departments to 100% paperless workflows.</p>
     </td>
   </tr>
 
-  <!-- ROW 2: Project 3 (Full Width Banner) -->
+  <!-- ROW 2: System Architecture Diagram (Full-Width) -->
   <tr>
     <td colspan="2" align="center" valign="top">
-      <br />
-      <a href="https://YOUR-DEMO-LINK-3.com" target="_blank">
-        <!-- 📌 ใส่ Path หรือ Link รูปที่แนบใน GitHub ที่นี่ -->
-        <img src="./assets/project3-banner.png" width="100%" alt="Fullstack Web App" style="border-radius: 8px;" />
+      <br/>
+      <a href="./assets/system-wireframe-overview.png" target="_blank">
+        <img src="./assets/system-wireframe-overview.png" width="100%" alt="System Wireframe and Skeleton Overview" style="border-radius: 8px; border: 1px solid #30363d;" />
       </a>
-      <br />
-      <h3>🚀 AI-Driven Full-Stack Web Application</h3>
-      <p>ระบบเว็บแอปพลิเคชันเชื่อมต่อชีตการทำงานและประมวลผลผ่าน AI Automations</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Supabase</code> <code>Google Apps Script</code> <code>n8n</code></p>
-      <a href="https://YOUR-DEMO-LINK-3.com">🔗 View Architecture & Docs</a>
+      <br/><br/>
+      <h3>🛠️ Enterprise Automation & Cloud Infrastructure Layout</h3>
+      <p>High-Level Component Interaction & Data Sync Across Corporate Systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AppSheet-1A73E8?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <p>💡 <i>Note: Sensitive corporate credentials and proprietary business logic have been omitted from system diagrams to protect company privacy.</i></p>
+</div>
