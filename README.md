@@ -1,4 +1,8 @@
 # Hi there, I'm Pasin Amonprompukdee 👋
+Nickname: Aum          Age:27
+
+---
+
 ### AI-Driven Full-Stack Developer & Data Solution Engineer
 
 > "I specialize in building production-ready web applications, managing modern cloud databases, and developing data-driven executive dashboards using AI orchestration."
