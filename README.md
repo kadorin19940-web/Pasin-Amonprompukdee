@@ -20,7 +20,7 @@ Successfully transitioned from an operational role to leading the company's inte
 * 📊 **Data Analytics & Business Intelligence (BI)**
   * Engineered and maintained secure cloud data pipelines connecting **BigQuery, PostgreSQL, MongoDB, and Supabase**.
   * Executed monthly and yearly **Data Cleansing** to ensure absolute data integrity across all enterprise platforms.
-  * Designed and delivered interactive, high-impact **Executive Dashboards via Looker Studio** to support critical business decisions and board presentations.
+  * Designed and delivered interactive, high-impact **Executive Dashboards via Looker Studio** or **Web App** to support critical business decisions and board presentations.
   * Controlled and governed all corporate data assets to generate real-time metrics and dynamic meeting materials for top-level executives.
 
 * 🤖 **AI & Software Development**
