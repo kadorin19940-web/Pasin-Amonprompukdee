@@ -124,7 +124,7 @@ Transitioned from an operational role into leading the company's full digital tr
   <img src="./Asset/badges-showcase.svg" width="100%" alt="Certifications and Badges showcase — Google AI and Pearson achievements displayed on an animated premium white/silver stand" />
 </p>
 
-<sub><i>📌 คลิกที่ Badge ด้านล่างเพื่อขยายดูแบบเต็ม (คลิกซ้ำเพื่อย่อกลับ) — GitHub ไม่ยอมให้ SVG/PNG ที่แสดงผ่าน &lt;img&gt; ตอบสนองการเอาเมาส์ไปชี้ (hover) ได้เลย ไม่ว่าจะเป็นไฟล์ SVG หรือรูปภาพธรรมดา เพราะ GitHub บังคับให้โหลดผ่าน &lt;img&gt; เสมอ (ไม่ใช่ &lt;object&gt;/&lt;embed&gt; ที่รับ input ได้) ระบบความปลอดภัยของ GitHub จึงตัด interactivity ทุกชนิดออกจากไฟล์ที่ฝังในหน้า README "คลิกเพื่อขยาย" ด้วย &lt;details&gt; จึงเป็นวิธีเดียวที่ใช้งานได้จริงบน GitHub (ไม่ต้องพึ่ง JS เลย)</i></sub>
+---
 
 <table align="center" border="0">
 <tr>
@@ -193,7 +193,7 @@ Transitioned from an operational role into leading the company's full digital tr
   <img src="./Asset/certificate-wall.svg" width="100%" alt="Certificate Wall showcase — Pearson and Coursera certificates displayed on a premium white/silver rack" />
 </p>
 
-<sub><i>📌 คลิกที่ใบประกาศนียบัตรด้านล่างเพื่อขยายอ่านฉบับเต็ม (คลิกซ้ำเพื่อย่อกลับ) — เช่นเดียวกับ Badge ด้านบน GitHub ไม่รองรับการขยายด้วย hover ผ่าน &lt;img&gt; จึงใช้ "คลิกเพื่อขยาย" ซึ่งเป็นวิธีเดียวที่ทำงานได้จริงบน GitHub</i></sub>
+---
 
 <table align="center" border="0">
 <tr>
