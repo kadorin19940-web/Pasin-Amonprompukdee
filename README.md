@@ -24,6 +24,7 @@
   <a href="#experience">Experience</a> ·
   <a href="#stack">Tech Stack</a> ·
   <a href="#badges">Badges</a> ·
+  <a href="#certificates">Certificates</a> ·
   <a href="#projects">Projects</a> ·
   <a href="#stats">GitHub Stats</a> ·
   <a href="#journey">Career Journey</a>
@@ -122,6 +123,94 @@ Transitioned from an operational role into leading the company's full digital tr
 <p align="center">
   <img src="./Asset/badges-showcase.svg" width="100%" alt="Certifications and Badges showcase — Google AI and Pearson achievements displayed on an animated premium white/silver stand" />
 </p>
+
+<sub><i>📌 คลิกที่ Badge ด้านล่างเพื่อขยายดูแบบเต็ม (คลิกซ้ำเพื่อย่อกลับ) — GitHub README ไม่รองรับการขยายภาพด้วยการเอาเมาส์ไปชี้ (hover) เพราะระบบความปลอดภัยของ GitHub ตัด CSS/JavaScript แบบ interactive ออกจากไฟล์ README เสมอ จึงใช้ "คลิกเพื่อขยาย" แทน ซึ่งเป็นวิธีที่ใกล้เคียงที่สุดที่ทำงานได้จริงบน GitHub</i></sub>
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-fundamentals.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>AI Fundamentals</b></sub></summary>
+<img src="./Asset/badges/ai-fundamentals-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-app-building.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>App Building</b></sub></summary>
+<img src="./Asset/badges/ai-app-building-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-app-deployment.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>App Deployment</b></sub></summary>
+<img src="./Asset/badges/ai-app-deployment-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-data-analysis.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Data Analysis</b></sub></summary>
+<img src="./Asset/badges/ai-data-analysis-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-research.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Research</b></sub></summary>
+<img src="./Asset/badges/ai-research-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-writing-communicating.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Writing & Comm.</b></sub></summary>
+<img src="./Asset/badges/ai-writing-communicating-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-brainstorming.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Brainstorming</b></sub></summary>
+<img src="./Asset/badges/ai-brainstorming-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/genai-foundations-pearson.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>GenAI Foundations</b></sub></summary>
+<img src="./Asset/badges/genai-foundations-pearson-full.png" width="260"/>
+</details>
+</td>
+<td align="center" width="11%">
+<details>
+<summary><img src="./Asset/badges/ai-professional.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>AI Professional</b></sub></summary>
+<img src="./Asset/badges/ai-professional-full.png" width="260"/>
+</details>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <a id="certificates"></a>📜 Certificate Wall
+
+<p align="center">
+  <img src="./Asset/certificate-wall.svg" width="100%" alt="Certificate Wall showcase — Pearson and Coursera certificates displayed on a premium white/silver rack" />
+</p>
+
+<sub><i>📌 คลิกที่ใบประกาศนียบัตรด้านล่างเพื่อขยายอ่านฉบับเต็ม (คลิกซ้ำเพื่อย่อกลับ)</i></sub>
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="50%">
+<details>
+<summary><img src="./Asset/certificates/cert-pearson-generative-ai-foundations.jpg" width="260" style="border-radius:8px;border:2px solid #d7dbe0;"/><br/><sub><b>Generative AI Foundations</b></sub><br/><sub>Pearson · Certiport · Aug 2026</sub></summary>
+<img src="./Asset/certificates/cert-pearson-generative-ai-foundations.jpg" width="100%"/>
+</details>
+</td>
+<td align="center" width="50%">
+<details>
+<summary><img src="./Asset/certificates/cert-coursera-google-ai-professional.jpg" width="260" style="border-radius:8px;border:2px solid #d7dbe0;"/><br/><sub><b>Google AI — Professional Certificate</b></sub><br/><sub>Coursera · Google Career Certificates · Aug 2026</sub></summary>
+<img src="./Asset/certificates/cert-coursera-google-ai-professional.jpg" width="100%"/>
+</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
