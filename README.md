@@ -23,6 +23,7 @@
 <p align="center">
   <a href="#experience">Experience</a> ·
   <a href="#stack">Tech Stack</a> ·
+  <a href="#badges">Badges</a> ·
   <a href="#projects">Projects</a> ·
   <a href="#stats">GitHub Stats</a> ·
   <a href="#journey">Career Journey</a>
@@ -112,6 +113,14 @@ Transitioned from an operational role into leading the company's full digital tr
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-64FFDA?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LLM%20Integration-64FFDA?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<br/>
+
+## <a id="badges"></a>🏅 Certifications & Badges
+
+<p align="center">
+  <img src="./Asset/badges-showcase.svg" width="100%" alt="Certifications and Badges showcase — Google AI and Pearson achievements displayed on an animated premium white/silver stand" />
 </p>
 
 <br/>
