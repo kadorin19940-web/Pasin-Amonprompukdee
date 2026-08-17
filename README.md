@@ -124,62 +124,62 @@ Transitioned from an operational role into leading the company's full digital tr
   <img src="./Asset/badges-showcase.svg" width="100%" alt="Certifications and Badges showcase — Google AI and Pearson achievements displayed on an animated premium white/silver stand" />
 </p>
 
----
+<sub><i>📌 คลิกที่ Badge เพื่อขยาย (คลิกซ้ำเพื่อย่อ)</i></sub>
 
 <table align="center" border="0">
 <tr>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-fundamentals.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>AI Fundamentals</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-fundamentals.png" width="260"/>
+<summary><img src="./Asset/badge-ai-fundamentals-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>AI Fundamentals</b></sub></summary>
+<img src="./Asset/badge-ai-fundamentals-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-app-building.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>App Building</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-app-building.png" width="260"/>
+<summary><img src="./Asset/badge-ai-app-building-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>App Building</b></sub></summary>
+<img src="./Asset/badge-ai-app-building-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-app-deployment.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>App Deployment</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-app-deployment.png" width="260"/>
+<summary><img src="./Asset/badge-ai-app-deployment-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>App Deployment</b></sub></summary>
+<img src="./Asset/badge-ai-app-deployment-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-data-analysis.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Data Analysis</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-data-analysis.png" width="260"/>
+<summary><img src="./Asset/badge-ai-data-analysis-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Data Analysis</b></sub></summary>
+<img src="./Asset/badge-ai-data-analysis-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-research.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Research</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-research.png" width="260"/>
+<summary><img src="./Asset/badge-ai-research-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Research</b></sub></summary>
+<img src="./Asset/badge-ai-research-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-writing-communicating.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Writing & Comm.</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-writing-communicating.png" width="260"/>
+<summary><img src="./Asset/badge-ai-writing-communicating-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Writing & Comm.</b></sub></summary>
+<img src="./Asset/badge-ai-writing-communicating-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-brainstorming.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Brainstorming</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-brainstorming.png" width="260"/>
+<summary><img src="./Asset/badge-ai-brainstorming-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>Brainstorming</b></sub></summary>
+<img src="./Asset/badge-ai-brainstorming-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-genai-foundations-pearson.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>GenAI Foundations</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-genai-foundations-pearson.png" width="260"/>
+<summary><img src="./Asset/badge-genai-foundations-pearson-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>GenAI Foundations</b></sub></summary>
+<img src="./Asset/badge-genai-foundations-pearson-full.png" width="260"/>
 </details>
 </td>
 <td align="center" width="11%">
 <details>
-<summary><img src="./Asset/badge-ai-professional.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>AI Professional</b></sub><br/><sub>🔍 click to zoom</sub></summary>
-<img src="./Asset/badge-ai-professional.png" width="260"/>
+<summary><img src="./Asset/badge-ai-professional-thumb.png" width="64" height="64" style="border-radius:50%;border:2px solid #d7dbe0;"/><br/><sub><b>AI Professional</b></sub></summary>
+<img src="./Asset/badge-ai-professional-full.png" width="260"/>
 </details>
 </td>
 </tr>
@@ -193,19 +193,19 @@ Transitioned from an operational role into leading the company's full digital tr
   <img src="./Asset/certificate-wall.svg" width="100%" alt="Certificate Wall showcase — Pearson and Coursera certificates displayed on a premium white/silver rack" />
 </p>
 
----
+<sub><i>📌 คลิกที่ใบประกาศนียบัตรเพื่อขยายอ่านฉบับเต็ม (คลิกซ้ำเพื่อย่อ)</i></sub>
 
 <table align="center" border="0">
 <tr>
 <td align="center" width="50%">
 <details>
-<summary><img src="./Asset/cert-pearson-generative-ai-foundations.jpg" width="260" style="border-radius:8px;border:2px solid #d7dbe0;"/><br/><sub><b>Generative AI Foundations</b></sub><br/><sub>Pearson · Certiport · Aug 2026</sub><br/><sub>🔍 click to zoom</sub></summary>
+<summary><img src="./Asset/cert-pearson-generative-ai-foundations-thumb.jpg" width="260" style="border-radius:8px;border:2px solid #d7dbe0;"/><br/><sub><b>Generative AI Foundations</b></sub><br/><sub>Pearson · Certiport · Aug 2026</sub></summary>
 <img src="./Asset/cert-pearson-generative-ai-foundations.jpg" width="100%"/>
 </details>
 </td>
 <td align="center" width="50%">
 <details>
-<summary><img src="./Asset/cert-coursera-google-ai-professional.jpg" width="260" style="border-radius:8px;border:2px solid #d7dbe0;"/><br/><sub><b>Google AI — Professional Certificate</b></sub><br/><sub>Coursera · Google Career Certificates · Aug 2026</sub><br/><sub>🔍 click to zoom</sub></summary>
+<summary><img src="./Asset/cert-coursera-google-ai-professional-thumb.jpg" width="260" style="border-radius:8px;border:2px solid #d7dbe0;"/><br/><sub><b>Google AI — Professional Certificate</b></sub><br/><sub>Coursera · Google Career Certificates · Aug 2026</sub></summary>
 <img src="./Asset/cert-coursera-google-ai-professional.jpg" width="100%"/>
 </details>
 </td>
