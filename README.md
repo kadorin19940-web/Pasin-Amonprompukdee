@@ -1,4 +1,4 @@
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="624d6efb-77b1-42a5-a873-7706e7afd55f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- Header -->
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=PASIN%20AMONPROMPUKDEE&fontSize=38&fontColor=E6F1FF&fontAlignY=38&desc=AI-Driven%20Full-Stack%20Developer%20and%20Data%20Solution%20Engineer&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" width="100%"/>
